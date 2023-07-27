@@ -1,4 +1,4 @@
-# Projeto de Manipulação e Transformação de Dados com Pandas
+# Curso: Manipulação e Transformação de Dados com Pandas
 
 ![Pandas Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png)
 
